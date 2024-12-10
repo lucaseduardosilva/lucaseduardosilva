@@ -4,9 +4,9 @@
   </h1>
 <div align="left">
   
-- **Currently I am coding in TypeScript!** 😉
-- **I am front-end developer and I intend learn more areas in coding world** 🌐
-- **I study Analysis and Systems Development in São Francisco University** 🌔
+- **I am currently a Full Stack Developer focused on React.js, Node.js, and React Native!** 🚀  
+- **I have over 3 years of professional experience working with front-end, back-end, and mobile technologies.** 🖥️📱  
+- **I have a technical degree in Computer Science from Escola Salesiana São José, where I built a strong foundation in system development.**   
   
   </div>
 </div>
